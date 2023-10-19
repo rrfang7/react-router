@@ -3,7 +3,6 @@ import { Routes, Route, Link } from "react-router-dom"
 import Blue from "./Components/blue"
 import Red from "./Components/red"
 import Home from "./Components/Home"
-import Navbar from "./Components/Navbar"
 import './App.css'
 
 

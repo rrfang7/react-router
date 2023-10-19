@@ -1,7 +1,7 @@
 // import { useState } from 'react'
 import { Routes, Route, Link } from "react-router-dom"
-import Blue from "./Components/blue"
-import Red from "./Components/red"
+import Blue from "./Components/Blue"
+import Red from "./Components/Red"
 import Home from "./Components/Home"
 import './App.css'
 

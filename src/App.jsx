@@ -4,15 +4,15 @@ import Blue from "./Components/blue"
 import Red from "./Components/red"
 import Home from "./Components/Home"
 import Navbar from "./Components/Navbar"
-import Footer from "./Components/Footer"
 import './App.css'
+
 
 function App() {
 
 
   return (
     <>
-        <div id="container">
+    <div id="container">
       <h1></h1>
       <div id="navbar">
         <Link to="/blue">Blue</Link>

@@ -17,14 +17,12 @@ function App() {
         <Link to="/blue">Blue</Link>
         <Link to="/red">Red</Link>
         <Link to="/">Home</Link>
-        <Link to="/Navbar">Navbar</Link>
       </div>
       <div id="main-section">
         <Routes>
           <Route path="/blue" element={<Blue/>}/>
           <Route path="/red" element={<Red/>}/>
           <Route path="/" element={<Home/>}/>
-          <Route path="/Navbar" element={<Navbar/>}/>
         </Routes>  
       </div>
     </div>
